@@ -1,0 +1,113 @@
+ html,body{
+    height: 100%;
+    font-weight: 400;
+    font-family: sans-serif,"lato";
+    font-size: 16px;
+    margin: 0px;
+    color: #666;
+    line-height: 1.8em; 
+}
+
+.psec1{
+    background-image: url(image1\ \(1\).png);
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+
+.psec2{
+    background-image: url(image2.png);
+    min-height: 400px;
+}
+
+.psec3{
+    background-image: url(image3\ \(1\).png);
+    min-height: 400px;
+}
+
+.psec1,
+.psec2,
+.psec3{
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+    
+.ptext{
+    position: absolute;
+    top: 50%;
+     color: black;
+     font-size: 27px;
+     width: 100%;
+     text-align: center;
+     letter-spacing: 8px;
+     text-transform:  uppercase;
+     
+
+}
+.pspan{
+    background: black;
+    color: white;
+    padding:18px;
+    
+}
+
+.section{
+    align-items: center;
+    padding: 50px 120px;
+   
+}
+
+.section h2{
+    
+   margin-left: 500px;
+  font-size:  xx-large;    
+}
+
+
+.section2{
+    background-color: aliceblue;
+    color: #666;
+}
+
+
+
+.third{
+  font-size: 16px;
+padding: 60px 120px;
+} 
+
+.section11{
+    background-color: rgba(0, 0, 0, 0.952);
+    color: white;
+}
+
+.section12{
+        
+    background-color:rgba(0, 0, 0, 0.734);
+    color: white;
+
+}
+
+.pvohra{
+    background-color: black;
+    color: white;
+    padding:9px 40px;
+    height: 19px;
+    margin-top: 25px;}
+
+    .ph{
+        background-color: #666;
+        width: 315px;
+        height: 33px;
+        justify-content: center;
+        align-items: center;
+        margin-left: 520px;
+        margin-top: 30px;
+        color:black;
+    }
